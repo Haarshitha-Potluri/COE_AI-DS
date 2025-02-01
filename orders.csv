@@ -1,0 +1,10 @@
+id,customer_name,order_date,total_amount
+1,John Doe,2025-02-01,999.97
+2,Jane Smith,2025-02-02,649.98
+3,Alice Johnson,2025-02-03,229.97
+4,Michael Brown,2025-02-04,1199.95
+5,Emily White,2025-02-05,399.99
+6,David Lee,2025-02-06,799.98
+7,Chris Green,2025-02-07,359.99
+8,Kate Adams,2025-02-08,559.95
+9,Robert King,2025-02-09,1099.89
